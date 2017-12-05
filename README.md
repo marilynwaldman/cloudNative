@@ -1,1 +1,2 @@
-docker run  -it -p 8080:8080 cloud-native-go
+
+docker build -t cloud-native-go .
