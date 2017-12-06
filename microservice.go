@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/user/cloudNative/api"
+	"./api"
 )
 
 func main() {
